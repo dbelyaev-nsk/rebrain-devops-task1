@@ -1,4 +1,4 @@
-# NGINX.conf
+# nginx.conf
 
 > Settings file for your NGINX
 
@@ -10,13 +10,13 @@ With [apt](https://help.ubuntu.ru/wiki/apt) installed, run
 ```
 $ sudo apt install nginx
 ```
-and copy this file NGINX.conf to 
+and copy this file nginx.conf to 
 ```
 /etc/nginx
 ```
 ## Acknowledgments
 
-NGINX.conf was inspired by course [REBRAIN](https://rebrainme.com)
+nginx.conf was inspired by course [REBRAIN](https://rebrainme.com)
 
 ## See Also
 
